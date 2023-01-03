@@ -1,2 +1,2 @@
 # Currency-Tracking
-Python program to track the exchange rate
+Python program to track the exchange the rate of som
